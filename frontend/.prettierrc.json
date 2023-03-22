@@ -1,0 +1,8 @@
+{
+    "printwith":80,
+    "singlequote": true,
+    "semi":true,
+    "tabwidth": true,
+    "trailingComma": "all",
+    "endOfLine": "auto"
+}
